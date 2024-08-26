@@ -12,4 +12,5 @@
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[Click here](https://gigomgigom-portfolio.netlify.app/)
+
+My portfolio : [https://gigomgigom-portfolio.netlify.app/](https://gigomgigom-portfolio.netlify.app/)
