@@ -13,4 +13,4 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-My portfolio : [https://gigomgigom-portfolio.netlify.app/](https://gigomgigom-portfolio.netlify.app/)
+## My portfolio : [https://gigomgigom-portfolio.netlify.app/](https://gigomgigom-portfolio.netlify.app/)
