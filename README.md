@@ -16,4 +16,4 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlarlrma)](https://solved.ac/tlarlrma/)
-## My portfolio : [https://gigomgigom-portfolio.netlify.app/](https://gigomgigom-portfolio.netlify.app/)
+## My portfolio(https://gigomgigom-portfolio.netlify.app/)
