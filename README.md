@@ -13,4 +13,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 
-## My portfolio(https://gigomgigom-portfolio.netlify.app/)
+## About me -> https://gigomgigom-portfolio.netlify.app/
