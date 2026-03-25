@@ -14,5 +14,3 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
 
 ## About me -> https://gigomgigom-portfolio.netlify.app/
-
-## WannaRich (prototype) - https://wanna-rich.vercel.app
